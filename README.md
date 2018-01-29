@@ -1,5 +1,8 @@
 # some-web-dev-tools
 
+### SVGs:
+- https://www.freesvgimages.com
+
 ### Icons:
 - http://www.creativebloq.com/web-design/free-icon-sets-10134829
 - https://iconmonstr.com/
@@ -14,4 +17,3 @@
 
 ### Learning sources:
 - https://github.com/P1xt/p1xt-guides
-
