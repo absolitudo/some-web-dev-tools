@@ -6,6 +6,9 @@
 ### Icons:
 - http://www.creativebloq.com/web-design/free-icon-sets-10134829
 - https://iconmonstr.com/
+- http://retrovectors.com/
+- http://www.endlessicons.com
+- https://material.io/tools/icons
 
 ### Colors:
 - https://www.materialui.co/colors
